@@ -1,4 +1,4 @@
 #!/bin/bash
-#Print the absolute path of the current working directory 
-pwd     
+/0x00-shell_basics 
+     
 
